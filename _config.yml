@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohamed Dawoud / Portofolio"
+title                    : "Mohamed Dawoud"
 title_separator          : "-"
 name                     : &name "Mohamed Dawoud"
-description              : &description "Machine Learning Engineer\n Deep Learning Research Engineer"
+description              : &description "Machine Learning Engineer at Avelabs LLC"
 url                      : https://m-dawoud.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "m-dawoud.github.io"
