@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Sim-to-Real Conditional End-to-End Self-Driving Vehicle Through Visual Perception"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: 
+excerpt: 'None.'
+date: 2019-14-07
+venue: 'None.'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Mohamed Dawoud, Amr Medhat, Ahmed Sherif, Abdelrahman El-Gammal, Fayrouz Yahia, and Nermeen Mohamed. (2009). &quot;Sim-to-Real Conditional End-to-End Self-Driving Vehicle Through Perception.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
