@@ -3,7 +3,7 @@ title: "Sim-to-Real Conditional End-to-End Self-Driving Vehicle Through Visual P
 collection: publications
 permalink: 
 excerpt: 'None.'
-date: 2019-14-07
+date: 2019-07-07
 venue: 'None.'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Mohamed Dawoud, Amr Medhat, Ahmed Sherif, Abdelrahman El-Gammal, Fayrouz Yahia, and Nermeen Mohamed. (2009). &quot;Sim-to-Real Conditional End-to-End Self-Driving Vehicle Through Perception.&quot; <i>Journal 1</i>. 1(1).'
