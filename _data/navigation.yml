@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "Background"
-    url: /background/
+#  - title: "Background"
+#    url: /background/
 
-  - title: "Portofolio"
-    url: /portofolio/    
+#  - title: "Portofolio"
+#    url: /portofolio/    
 
-  - title: "Blog Posts"
-    url: /blog-posts/
+#  - title: "Blog Posts"
+#    url: /blog-posts/
   
-  - title: "CV"
-    url: /cv/    
+#  - title: "CV"
+#    url: /cv/    
     
-  - title: "Contact Me"
-    url: /contact-me/
+#  - title: "Contact Me"
+#    url: /contact-me/
         
